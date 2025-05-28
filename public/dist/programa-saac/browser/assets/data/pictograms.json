@@ -1,0 +1,992 @@
+[
+  {
+    "label": "abuela",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/abuela.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "abuelo",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/abuelo.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "abuelos",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/abuelos.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "basurero",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/basurero.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "bebé",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/bebe.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "bombero",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/bombero.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "caballo",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/caballo.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "camarero",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/camarero.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "carnicero",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/carnicero.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "chica",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/chica.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "chico",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/chico.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "chicoGafas",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/chicoGafas.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "churrero",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/churrero.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "él",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/el.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "elefante",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/elefante.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "ellos",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/ellos.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "familia",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/familia.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "gallina",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/gallina.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "gallo",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/gallo.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "gato",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/gato.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "hermana",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/hermana.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "hermano",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/hermano.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "hija",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/hija.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "hijo",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/hijo.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "loro",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/loro.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "mamá",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/mama.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "médico",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/mdico.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "nieta",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/nieta.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "nieto",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/nieto.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "paloma",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/paloma.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "papá",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/papa.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "pastelero",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/pastelero.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "pato",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/pato.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "peluquero",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/peluquero.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "perro",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/perro.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "pescadero",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/pescadero.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "policía",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/policiaCoche.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "profesor",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/profesor.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "vosotros",
+    "imageUrl": "assets/imagenes/pictogramas/sujetos/vosotros.png",
+    "tipo": "sujeto"
+  },
+  {
+    "label": "albóndigas",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/albondigas.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "azúcar",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/azucar.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "baloncesto",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/baloncesto.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "boca",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/boca.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "bocadillo",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/bocadillo.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "bolsa de deporte",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/bolsa de deporte.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "botas",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/botas.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "brazo",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/brazo.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "cabeza",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/cabeza.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "calcetines",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/calcetines.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "carne",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/carne.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "carpeta",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/carpeta.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "cereales",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/cereales.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "cerezas",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/cerezas.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "chándal",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/chandal.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "chocolate",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/chocolate.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "comida",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/comida.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "croissant",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/croissant.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "croquetas",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/croquetas.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "cucurucho de helado",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/cucurucho de helado.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "cuello",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/cuello.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "dedo",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/dedo.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "deporte",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/deporte.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "ensalada",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/ensalada.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "espalda",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/espalda.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "fresa",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/fresa.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "fruta",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/fruta.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "fútbol",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/futbol.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "gafas",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/gafas.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "galletas",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/galletas.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "garbanzos",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/garbanzos.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "hamburguesa",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/hamburguesa.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "harina",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/harina.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "jamón",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/jamon.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "judías verdes",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/judias verdes.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "lápiz",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/lapiz.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "macarrones",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/macarrones.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "magdalena",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/magdalena.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "mano",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/mano.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "mantequilla",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/mantequilla.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "manzana",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/manzana.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "melón",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/melon.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "móvil",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/movil.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "naranja",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/naranja.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "nariz",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/nariz.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "ojos",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/ojos.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "palomitas",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/palomitas.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "pan",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pan.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "parque",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/parque.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "pastel",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pastel.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "pelo",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pelo.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "pelota",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pelota.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "pera",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pera.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "pie",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pie.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "pierna",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pierna.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "pincel",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pincel.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "piscina",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/piscina.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "pizarra",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pizarra.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "pizza",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pizza.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "plátano",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/platano.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "playa",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/playa.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "pollo",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pollo.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "puré",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/pure.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "queso",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/queso.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "regalo",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/regalo.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "sal",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/sal.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "sopa",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/sopa.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "tarta",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/tarta.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "tomate",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/tomate.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "tortilla",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/tortilla.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "vaso",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/vaso.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "yogur",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/yogur.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "zapatos",
+    "imageUrl": "assets/imagenes/pictogramas/sustantivos/zapatos.png",
+    "tipo": "sustantivo"
+  },
+  {
+    "label": "abrir",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/abrir.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "apagar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/apagar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "apestar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/apestar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "apilar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/apilar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "arreglar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/arreglar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "ayudar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/ayudar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "beber",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/beber.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "botar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/botar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "buscar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/buscar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "cambiar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/cambiar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "cantar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/cantar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "cerrar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/cerrar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "coger",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/coger.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "comprar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/comprar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "conducir",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/conducir.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "cortar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/cortar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "crecer",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/crecer.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "despertar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/despertar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "dormir",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/dormir.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "duchar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/duchar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "empujar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/empujar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "encontrar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/encontrar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "esperar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/esperar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "estudiar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/estudiar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "guardar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/guardar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "guiñar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/guinnar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "hablar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/hablar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "hacer caca",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/hacer_caca.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "hacer pis",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/hacer_pis.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "levantar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/levantar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "limpiar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/limpiar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "llegar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/llegar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "medir",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/medir.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "meter frigorífico",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/meter_frigorifico.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "oír",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/oir.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "pagar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/pagar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "pasear",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/pasear.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "peinar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/peinar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "pisar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/pisar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "poder",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/poder.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "proteger",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/proteger.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "querer",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/querer.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "querer (1)",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/querer (1).png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "regañar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/regannar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "sacar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/sacar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "secar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/secar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "sentar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/sentar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "ser",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/ser.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "tener hambre",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/tener_hambre.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "tener sed",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/tener_sed.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "terminar",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/terminar.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "vestir",
+    "imageUrl": "assets/imagenes/pictogramas/verbos/vestir.png",
+    "tipo": "verbo"
+  },
+  {
+    "label": "ayer",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/ayer.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "hoy",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/hoy.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "mañana",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/mannana.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "antes",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/antes.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "ahora",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/ahora.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "después",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/despues.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "sí",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/si.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "no",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/no.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "tal vez",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/talVez.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "nada",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/nada.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "poco",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/poco.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "mucho",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/mucho.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "fuera",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/fuera.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "dentro",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/dentro.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "abajo",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/abajo.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "arriba",
+    "imageUrl": "assets/imagenes/pictogramas/adverbios/arriba.png",
+    "tipo": "adverbio"
+  },
+  {
+    "label": "alegreChica",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/alegreChica.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "alegreChico",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/alegreChico.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "asustada",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/asustada.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "asustado",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/asustado.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "cansada",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/cansada.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "cansado",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/cansado.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "contenta",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/contenta.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "contento",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/contento.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "enamorada",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/enamorada.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "enamorado",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/enamorado.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "feliz",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/feliz.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "grande",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/grande.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "limpio",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/limpio.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "pequeño",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/pequenno.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "sorprendida",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/sorprendida.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "sorprendido",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/sorprendido.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "sucio",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/sucio.png",
+    "tipo": "adjetivo"
+  },
+  {
+    "label": "triste",
+    "imageUrl": "assets/imagenes/pictogramas/adjetivos/triste.png",
+    "tipo": "adjetivo"
+  }
+]
